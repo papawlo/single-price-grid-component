@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-
+Check the [demo](https://papawlo.github.io/single-price-grid-component/)
 ## The challenge
 
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
